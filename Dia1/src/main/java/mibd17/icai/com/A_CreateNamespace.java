@@ -10,7 +10,7 @@ import org.apache.hadoop.fs.Path;
 
 import java.io.IOException;
 
-public class CreateNamespace {
+public class A_CreateNamespace {
     public static void main(String[] args) {
 
         // Obtenemos la configuración del cluster

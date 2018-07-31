@@ -5,16 +5,17 @@
   <groupId>mibd17.icai.com</groupId>
   <artifactId>hbaseapi</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <name>hbaseapi</name>
+  <url>http://maven.apache.org</url>
+  <packaging>pom</packaging>
+
+
   <modules>
     <module>Dia1</module>
     <module>Dia2</module>
     <module>Dia3</module>
-      <module>Correccion</module>
   </modules>
-  <packaging>pom</packaging>
 
-  <name>hbaseapi</name>
-  <url>http://maven.apache.org</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
